@@ -1,4 +1,4 @@
-# EXP-2--JAVA
+# EXP-2 -> COMPARE TWO NUMBERS
 
 ## AIM :
 TO Write a Java program to compare two numbers
